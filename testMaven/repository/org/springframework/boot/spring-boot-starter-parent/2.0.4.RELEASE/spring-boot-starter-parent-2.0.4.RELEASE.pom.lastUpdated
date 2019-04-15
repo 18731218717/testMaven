@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 10 23:47:10 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1536592613574
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1536594430348
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.0.4.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset
